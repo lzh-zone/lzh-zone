@@ -5,8 +5,8 @@
 
 
 Here are some ideas to get you started:
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lzh-zone&show_icons=true&theme=dark&count_private=true)
 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lzh-zone&theme=dark&layout=compact)
+
+[![lzh-zone's GitHub stats](https://github-readme-stats.vercel.app/api?username=lzh-zone)](https://github.com/anuraghazra/github-readme-stats)
 
